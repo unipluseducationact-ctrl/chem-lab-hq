@@ -1,0 +1,6 @@
+*.zip
+*.pptx
+build_pptx.py
+.cursor/
+__pycache__/
+_ppt_cache/
